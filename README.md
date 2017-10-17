@@ -9,7 +9,7 @@ An adaptation of the Kampmann and Wagner Numerical (KWN) model was developed as 
 
 ### Citation
     Utilization of Bayesian Optimization and KWN Modeling for Increased Efficiency of Al-Sc Precipitation Strengthening
-    Submitted to Metallurgical Transactions B
+    Submitted to Metallurgical and Materials Transactions B
     Kyle Deane, Vu Nguyen, Santu Rana, Sunil Gupta, Svetha Venkatesh, Paul .G. Sanders
 
 ### Related Papers
